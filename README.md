@@ -1,5 +1,7 @@
 
-# Exploring Customers Segmentation With RFM Analysis and K-Means Clustering
+# 使用RFM分析和KMeans聚类探索客户细分
+Exploring Customers Segmentation With RFM Analysis and K-Means Clustering
+
 在商业领域中，营销人员通常会花费大量时间和资金来吸引新客户，但是忽略了维护现有客户的重要性。然而，保持现有客户的满意度和忠诚度同样重要，因为在客户保留率低于新客户获取率的情况下，整个客户群体将会逐渐减少。因此，企业需要将现有客户的需求和需求放在首位，而不是只关注新客户。
 
 在营销计划中，企业需要确保所投资的资金和资源能够最大限度地满足客户的需求和利益。营销人员的目标是通过定制计划，更好地了解客户的需求和行为，并针对不同的客户群体提供个性化的服务和优惠。
