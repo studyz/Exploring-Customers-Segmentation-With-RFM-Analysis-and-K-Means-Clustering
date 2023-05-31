@@ -19,3 +19,15 @@ Exploring Customers Segmentation With RFM Analysis and K-Means Clustering
 在每个大类内使用RFM客户分类细分，发挥RFM客户分类在表达性强和结果易解释这两个方面的优势。因为在同一大类内,客户的属性相近,所以RFM客户分类细分结果也比较容易理解。
 
 结合K-MEANS聚类和RFM客户分类两种方法的优势,进行全面而深入的客户分类，更好地了解客户需求和购买习惯，制定更针对性的营销策略，从而实现精准营销的目的。
+
+## Datasets
+
+"这是一个跨国数据集,包含2010年12月1日至2011年12月9日之间一家以英国注册的非实体店铺在线零售商的所有交易。该公司主要销售各种场合的独特礼物。该公司的许多客户是批发商。"
+
+Context
+Typically e-commerce datasets are proprietary and consequently hard to find among publicly available data. However, The UCI Machine Learning Repository has made this dataset containing actual transactions from 2010 and 2011. The dataset is maintained on their site, where it can be found by the title "Online Retail".
+
+Acknowledgements
+Per the UCI Machine Learning Repository, this data was made available by Dr Daqing Chen, Director: Public Analytics group. chend '@' lsbu.ac.uk, School of Engineering, London South Bank University, London SE1 0AA, UK.
+
+[Dataset Link](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
